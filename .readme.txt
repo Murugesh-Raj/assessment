@@ -1,0 +1,7 @@
+Steps To Run the program
+
+1. Open the folder in terminal
+2. Type "node murugesh.js"
+3. enter the name
+4. You can find the output 
+5. That's It..................
